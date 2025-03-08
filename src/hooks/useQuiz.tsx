@@ -39,7 +39,7 @@ const questions: Question[] = [
   },
   {
     question: "In Web3.js, which method is used to call a read-only function on a smart contract?",
-    options: ["contract.methods.functionName().call()", "contract.methods.functionName().send()", "web3.eth.call()", "contract.invokeFunction()"],
+    options: ["contract.methods. functionName().call()", "contract.methods. functionName().send()", "web3.eth.call()", "contract.invokeFunction()"],
     correctAnswer: "contract.methods.functionName().call()",
   },
   {
